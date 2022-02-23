@@ -1,0 +1,6 @@
+name = input("What is your name?")
+age = int(input("How old are you?"))
+if (age<21):
+    print("you are not allowed to drink.")
+else:
+    print("you are allowed to drink")
